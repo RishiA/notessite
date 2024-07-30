@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "alana goyal",
-  title: "alana goyal | notes",
-  description: "founder, managing partner, & engineer @ basecase",
-  url: "https://alanagoyal.com",
+  name: "rishi athanikar",
+  title: "rishi athanikar | musings",
+  description: "product leader, tech optimist, code and design tinkerer, dad",
+  url: "https://rishiathanikar.com",
 };
 
