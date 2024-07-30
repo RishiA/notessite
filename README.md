@@ -1,8 +1,6 @@
 ## Getting Started
 
-### Clone the repository
 
-`git clone https://github.com/alanagoyal/alanagoyal`
 
 ### Set up the database
 This project uses [Supabase](https://supabase.com) as a backend. To set up the database, create a [new project](https://database.new), enter your project details, and wait for the database to launch. Navigate to the SQL editor in the dashboard, paste the SQL from the [migration file](https://github.com/alanagoyal/alanagoyal/blob/main/supabase/migrations) into the SQL editor and press run. You can also use the Supabase CLI to do this locally.
